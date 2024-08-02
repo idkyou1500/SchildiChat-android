@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 
-gem "fastlane"
-gem 'danger'
+gem "fastlane", ">= 2.209.1"
+gem 'danger', '>= 9.0.0'
